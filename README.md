@@ -12,7 +12,7 @@ Atualmente, trabalho com:
 
 - **Front-End:** HTML, CSS, WordPress, Elementor
 - **Back-End:** C# (básico), SQL
-- **Ferramentas:** Git, Figma, Photoshop, CapCut
+- **Ferramentas:** Figma, Adobe
 
 ## 🌟 Sobre mim
 
